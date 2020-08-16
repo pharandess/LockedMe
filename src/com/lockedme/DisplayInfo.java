@@ -30,7 +30,7 @@ public class DisplayInfo {
 		System.out.println("1 : Add file.");
 		System.out.println("2 : Remove file.");
 		System.out.println("3 : Search file.");
-		System.out.println("4 : Retun to main menu.");
+		System.out.println("4 : Return to main menu.");
 		
 		
 	}	

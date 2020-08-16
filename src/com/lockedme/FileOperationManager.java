@@ -12,8 +12,8 @@ import java.util.Collections;
 
 public class FileOperationManager {
 
-	public static File rootDirectory;
-	public static Queue<File> queue = new LinkedList<File>();
+	private static File rootDirectory;
+	private static Queue<File> queue = new LinkedList<File>();
 
 	public boolean setRootDirectory(String dirPath) {
 
